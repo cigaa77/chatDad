@@ -1,0 +1,17 @@
+{
+  "name": "chatdad",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Ahmet <ahmetcilingir@outlook.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/cigaa77/chatDad",
+  "dependencies": {
+    "angular": "^1.7.9"
+  }
+}
